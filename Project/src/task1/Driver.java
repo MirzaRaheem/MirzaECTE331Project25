@@ -46,7 +46,9 @@ public class Driver {
 		return (int) (random.nextDouble()*10);
 	}
 	private static double MajorityVoter(double [] third_sensor) {
-		
+		boolean flag01, flag12, flag02;
+		float epsilon = 0.001;
+		// x == y ------> Math.abs(x-y) < epsilon
 		
 	}
 
