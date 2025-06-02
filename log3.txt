@@ -1,0 +1,1 @@
+[2025/06/02 23:44:15] Discrepancy detected: 3.1=7, 3.2=3, 3.3=0. Falling back to last valid value: -1
